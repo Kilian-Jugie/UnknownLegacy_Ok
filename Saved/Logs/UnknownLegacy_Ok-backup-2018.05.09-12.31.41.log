@@ -1,0 +1,780 @@
+﻿Log file open, 05/08/18 10:52:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: UnknownLegacy_Ok
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1418726531) SRandInit(-1418726531).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.164837
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/LowEntryExtStdLib/Binaries/Win64/UE4Editor-LowEntryExtendedStandardLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/LowEntryExtStdLib/Binaries/Win64/UE4Editor-LowEntryExtendedStandardLibraryEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin LowEntryExtStdLib
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: F:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.08-08.52.35:570][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.08-08.52.35:570][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.08-08.52.35:577][  0]LogInit: Computer: KPC_V4
+[2018.05.08-08.52.35:577][  0]LogInit: User: kilian3008
+[2018.05.08-08.52.35:577][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.08-08.52.35:577][  0]LogInit: High frequency timer resolution =3.906265 MHz
+[2018.05.08-08.52.35:577][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2018.05.08-08.52.35:577][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.08-08.52.35:577][  0]LogMemory: Process Physical Memory: 272.64 MB used, 272.64 MB peak
+[2018.05.08-08.52.35:577][  0]LogMemory: Process Virtual Memory: 269.84 MB used, 269.84 MB peak
+[2018.05.08-08.52.35:577][  0]LogMemory: Physical Memory: 11877.57 MB used,  12644.98 MB free, 24522.55 MB total
+[2018.05.08-08.52.35:577][  0]LogMemory: Virtual Memory: 677.84 MB used,  12644.98 MB free, 134217728.00 MB total
+[2018.05.08-08.52.35:672][  0]LogInit: Using OS detected language (fr-FR).
+[2018.05.08-08.52.35:672][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.05.08-08.52.35:675][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.05.08-08.52.35:675][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2018.05.08-08.52.36:042][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.08-08.52.36:253][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.08-08.52.36:307][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.05.08-08.52.36:307][  0]LogD3D11RHI:       8079/0/12261 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2018.05.08-08.52.36:309][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.08-08.52.36:309][  0]LogD3D11RHI:       0/0/12261 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.08-08.52.36:309][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.08-08.52.36:319][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.08-08.52.36:319][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.08-08.52.36:319][  0]LogWindows: EnumDisplayDevices:
+[2018.05.08-08.52.36:319][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.05.08-08.52.36:319][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.05.08-08.52.36:319][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.05.08-08.52.36:319][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.08-08.52.36:320][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.08-08.52.36:320][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.05.08-08.52.36:320][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.08-08.52.36:320][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.08-08.52.36:320][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.05.08-08.52.36:349][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.08-08.52.36:370][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.08-08.52.36:462][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (../../../../../../UE/UnknownLegacy_Ok/Intermediate/Shaders/WorkingDirectory/25240/).
+[2018.05.08-08.52.36:462][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kilian3008/AppData/Local/Temp/UnrealShaderWorkingDir/014524454BFC9FC350EEE7A9014F0AE1/'.
+[2018.05.08-08.52.36:462][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.08-08.52.37:208][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.08-08.52.37:244][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.08-08.52.37:279][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.08-08.52.37:315][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.08-08.52.37:350][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.08-08.52.37:385][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.08-08.52.37:421][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.08-08.52.37:455][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.08-08.52.37:485][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.08-08.52.37:518][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.08-08.52.37:552][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.08-08.52.37:588][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.08-08.52.37:623][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.08-08.52.37:657][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.08-08.52.37:727][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.08-08.52.37:727][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.08-08.52.37:762][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.08-08.52.37:788][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.08-08.52.37:855][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.08-08.52.37:874][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.08-08.52.37:909][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.08-08.52.37:944][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.08-08.52.37:978][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.08-08.52.38:013][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.08-08.52.38:014][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.08-08.52.38:312][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.08-08.52.38:376][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/kilian3008/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.08-08.52.38:376][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kilian3008/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.08-08.52.38:376][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UE/UnknownLegacy_Ok/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.08-08.52.38:376][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.08-08.52.38:376][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UE/UnknownLegacy_Ok/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.08-08.52.38:376][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.08-08.52.38:390][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.08-08.52.38:402][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kilian3008/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.08-08.52.38:411][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.08-08.52.38:411][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.08-08.52.38:412][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.08-08.52.38:412][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.08-08.52.38:705][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.08-08.52.38:940][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.08-08.52.38:966][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.08-08.52.38:966][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.08-08.52.38:966][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.08-08.52.38:966][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.08-08.52.38:966][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.08-08.52.38:995][  0]LogNetVersion: UnknownLegacy_Ok , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1015185601)
+[2018.05.08-08.52.39:115][  0]LogAssetRegistry: FAssetRegistry took 0.0248 seconds to start up
+[2018.05.08-08.52.39:466][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 1 prioritized culture(s) in 0.019309 seconds
+[2018.05.08-08.52.39:470][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.05.08-08.52.39:470][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.05.08-08.52.39:470][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.08-08.52.39:503][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.08-08.52.41:884][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.08-08.52.41:916][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.08-08.52.42:388][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.08-08.52.42:675][  0]SourceControl: Source control is disabled
+[2018.05.08-08.52.42:675][  0]SourceControl: Source control is disabled
+[2018.05.08-08.52.42:713][  0]SourceControl: Source control is disabled
+[2018.05.08-08.52.42:748][  0]SourceControl: Source control is disabled
+[2018.05.08-08.52.43:368][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.08-08.52.43:547][  0]LogOcInput: OculusInput pre-init called
+[2018.05.08-08.52.43:761][  0]LogEngine: Initializing Engine...
+[2018.05.08-08.52.43:764][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.08-08.52.43:936][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.08-08.52.43:936][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.08-08.52.44:025][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.08-08.52.44:031][  0]LogInit: XAudio2 using 'Haut-parleurs (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.08-08.52.44:049][  0]LogInit: FAudioDevice initialized.
+[2018.05.08-08.52.44:123][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/kilian3008/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.08-08.52.44:135][  0]LogInit: Texture streaming: Enabled
+[2018.05.08-08.52.44:197][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.08-08.52.44:282][  0]LogInit: Transaction tracking system initialized
+[2018.05.08-08.52.44:478][  0]BlueprintLog: New page: Editor Load
+[2018.05.08-08.52.45:026][  0]LocalizationService: Localization service is disabled
+[2018.05.08-08.52.45:496][  0]LogConsoleResponse: Display: 
+[2018.05.08-08.52.45:625][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.08-08.52.45:625][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.08-08.52.45:626][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.08-08.52.46:380][  0]LogFileCache: Scanning file cache for directory 'F:/UE/UnknownLegacy_Ok/Content/' took 0.02s
+[2018.05.08-08.52.46:410][  0]SourceControl: Source control is disabled
+[2018.05.08-08.52.46:410][  0]Cmd: MAP LOAD FILE="../../../../../../UE/UnknownLegacy_Ok/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.08-08.52.46:410][  0]LogEditorServer: Warning: Can't find file '../../../../../../UE/UnknownLegacy_Ok/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.05.08-08.52.46:410][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.08-08.52.46:441][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 30.99ms to complete.
+[2018.05.08-08.52.46:441][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.031
+[2018.05.08-08.52.46:514][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.08-08.52.46:634][  0]LogCollectionManager: Loaded 0 collections in 0.001198 seconds
+[2018.05.08-08.52.46:705][  0]LogFileCache: Scanning file cache for directory 'F:/UE/UnknownLegacy_Ok/Saved/Collections/' took 0.01s
+[2018.05.08-08.52.46:705][  0]LogFileCache: Scanning file cache for directory 'F:/UE/UnknownLegacy_Ok/Content/Developers/kilian3008/Collections/' took 0.01s
+[2018.05.08-08.52.46:705][  0]LogFileCache: Scanning file cache for directory 'F:/UE/UnknownLegacy_Ok/Content/Collections/' took 0.01s
+[2018.05.08-08.52.46:705][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.08-08.52.46:727][  0]LogContentBrowser: Native class hierarchy populated in 0.0220 seconds. Added 2388 classes and 528 folders.
+[2018.05.08-08.52.46:776][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.08-08.52.47:717][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.08-08.52.47:762][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.08-08.52.47:822][  0]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.08-08.52.47:824][  0]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.08-08.52.47:844][  0]LogSlate: Took 0.015823 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.08-08.52.48:017][  0]LogRenderer: Reallocating scene render targets to support 1192x660 Format 10 NumSamples 1 (Frame:1).
+[2018.05.08-08.52.48:171][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.08-08.52.48:172][  0]LogLoad: (Engine Initialization) Total time: 14.37 seconds
+[2018.05.08-08.52.48:172][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.08-08.52.48:172][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.05.08-08.52.48:172][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.05.08-08.52.48:199][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.08-08.52.48:258][  0]LogSlate: Took 0.012953 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.08-08.52.48:270][  1]LogAssetRegistry: Asset discovery search completed in 9.1766 seconds
+[2018.05.08-08.52.48:272][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.08-08.52.48:272][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2018.05.08-08.52.49:201][109]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.08-08.53.04:090][891]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.08-08.53.04:173][891]LogLinker: Warning: Can't find file '/Game/FirstPerson/Textures/FirstPersonCrosshair'
+[2018.05.08-08.53.04:173][891]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Textures/FirstPersonCrosshair' while loading ../../../../../../UE/UnknownLegacy_Ok/Content/OLD/FirstPersonBP/Blueprints/FirstPersonHUD.uasset.
+[2018.05.08-08.53.04:173][891]LoadErrors: Error: /Game/OLD/FirstPersonBP/Blueprints/FirstPersonHUD : Can't find file for asset. /Game/FirstPerson/Textures/FirstPersonCrosshair
+[2018.05.08-08.53.04:174][891]LogLinker: Warning: Can't find file '/Game/FirstPerson/Textures/FirstPersonCrosshair'
+[2018.05.08-08.53.04:174][891]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Textures/FirstPersonCrosshair' while loading ../../../../../../UE/UnknownLegacy_Ok/Content/OLD/FirstPersonBP/Blueprints/FirstPersonHUD.uasset.
+[2018.05.08-08.53.04:174][891]LogLinker: Warning: Can't find file '/Game/FirstPerson/Textures/FirstPersonCrosshair'
+[2018.05.08-08.53.04:174][891]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Textures/FirstPersonCrosshair' while loading ../../../../../../UE/UnknownLegacy_Ok/Content/OLD/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset.
+[2018.05.08-08.53.04:174][891]LoadErrors: Error: /Game/OLD/FirstPersonBP/Blueprints/FirstPersonGameMode : Can't find file for asset. /Game/FirstPerson/Textures/FirstPersonCrosshair
+[2018.05.08-08.53.04:174][891]LogLinker: Warning: Can't find file '/Game/FirstPerson/Textures/FirstPersonCrosshair'
+[2018.05.08-08.53.04:174][891]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Textures/FirstPersonCrosshair' while loading ../../../../../../UE/UnknownLegacy_Ok/Content/OLD/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset.
+[2018.05.08-08.53.04:175][891]LogLinker: Warning: Can't find file '/Game/FirstPerson/Textures/FirstPersonCrosshair'
+[2018.05.08-08.53.04:175][891]LoadErrors: Failed to load /Game/FirstPerson/Textures/FirstPersonCrosshair.FirstPersonCrosshair Referenced by K2Node_CallFunction_12988
+[2018.05.08-08.53.04:175][891]LogLinker: Warning: Can't find file for asset '/Game/FirstPerson/Textures/FirstPersonCrosshair' while loading ../../../../../../UE/UnknownLegacy_Ok/Content/OLD/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset.
+[2018.05.08-08.53.04:860][891]LogAIModule: Creating AISystem for world BaseLevel
+[2018.05.08-08.53.04:882][891]Cmd: MAP LOAD FILE="../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Levels/BaseLevel/BaseLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.08-08.53.04:882][891]LightingResults: New page: Lighting Build
+[2018.05.08-08.53.04:908][891]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2018.05.08-08.53.04:909][891]LoadErrors: New page: Loading map: BaseLevel.umap
+[2018.05.08-08.53.04:909][891]MapCheck: New page: Map Check
+[2018.05.08-08.53.04:909][891]LightingResults: New page: Lighting Build
+[2018.05.08-08.53.04:974][891]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.08-08.53.04:998][891]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.08-08.53.05:036][891]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 37.796ms to complete.
+[2018.05.08-08.53.05:036][891]LogFileHelpers: Loading map 'BaseLevel' took 0.155
+[2018.05.08-08.53.10:079][459]LogLinker: Warning: Asset '../../../Engine/Plugins/Marketplace/LowEntryExtStdLib/Content/Blueprints/LowEntryExtendedStandardLibraryMacros.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.05.08-08.53.10:149][459]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.05.08-08.53.10:763][459]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.08-08.53.10:845][459]LogSlate: Took 0.009736 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.08-08.53.10:991][460]LogSlate: Took 0.006477 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.08-08.53.14:548][820]LogRenderer: Reallocating scene render targets to support 1192x696 Format 10 NumSamples 1 (Frame:1).
+[2018.05.08-16.04.28:422][388]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.08-16.04.29:563][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel.BaseLevel:PersistentLevel' has LevelScriptBlueprint '/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel.BaseLevel:PersistentLevel.BaseLevel' with GeneratedClass '/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel.BaseLevel_C' with ClassGeneratedBy '/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel.BaseLevel:PersistentLevel.BaseLevel'
+[2018.05.08-16.04.29:677][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.08-16.04.29:846][388]PIE: New page: PIE session: BaseLevel (May 8, 2018, 8:04:29 PM)
+[2018.05.08-16.04.29:930][388]LogPlayLevel: Creating play world package: /Game/UnknownLegacy/Levels/BaseLevel/UEDPIE_0_BaseLevel
+[2018.05.08-16.04.30:500][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.568589s)
+[2018.05.08-16.04.30:777][388]LogAIModule: Creating AISystem for world BaseLevel
+[2018.05.08-16.04.30:874][388]LogPlayLevel: PIE: World Init took: (0.373502s)
+[2018.05.08-16.04.30:893][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UnknownLegacy/Levels/BaseLevel/BaseLevel.BaseLevel to /Game/UnknownLegacy/Levels/BaseLevel/UEDPIE_0_BaseLevel.BaseLevel (0.963783s)
+[2018.05.08-16.04.32:250][388]LogInit: XAudio2 using 'Haut-parleurs (Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.05.08-16.04.32:269][388]LogInit: FAudioDevice initialized.
+[2018.05.08-16.04.32:577][388]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.08-16.04.32:863][388]LogWorld: Bringing World /Game/UnknownLegacy/Levels/BaseLevel/UEDPIE_0_BaseLevel.BaseLevel up for play (max tick rate 0) at 2018.05.08-18.04.32
+[2018.05.08-16.04.32:866][388]LogWorld: Bringing up level for play took: 0.169782
+[2018.05.08-16.04.34:690][388]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0554 seconds. Added 11 classes and 0 folders.
+[2018.05.08-16.04.35:378][388]PIE: Play in editor start time for /Game/UnknownLegacy/Levels/BaseLevel/UEDPIE_0_BaseLevel 5.237
+[2018.05.08-16.04.35:493][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel.BaseLevel:PersistentLevel' has LevelScriptBlueprint '/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel.BaseLevel:PersistentLevel.BaseLevel' with GeneratedClass '/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel.BaseLevel_C' with ClassGeneratedBy '/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel.BaseLevel:PersistentLevel.BaseLevel'
+[2018.05.08-16.04.43:207][847]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel.BaseLevel:PersistentLevel' has LevelScriptBlueprint '/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel.BaseLevel:PersistentLevel.BaseLevel' with GeneratedClass '/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel.BaseLevel_C' with ClassGeneratedBy '/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel.BaseLevel:PersistentLevel.BaseLevel'
+[2018.05.08-16.04.43:491][847]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel.BaseLevel:PersistentLevel' has LevelScriptBlueprint '/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel.BaseLevel:PersistentLevel.BaseLevel' with GeneratedClass '/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel.BaseLevel_C' with ClassGeneratedBy '/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel.BaseLevel:PersistentLevel.BaseLevel'
+[2018.05.08-16.16.48:170][643]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Logo' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.08-16.16.48:428][643]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_1' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.08-16.16.48:430][643]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_3' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.08-16.16.48:432][643]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_5' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.08-16.16.48:435][643]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_7' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.08-16.16.48:463][644]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_9' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.08-16.16.48:466][644]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_11' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.08-16.16.48:477][645]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_13' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.08-16.16.48:480][645]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_15' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.08-16.16.48:493][646]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_17' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.08-16.16.48:506][647]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_19' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.08-16.16.48:517][648]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_21' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.08-16.16.48:529][649]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_23' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.08-16.16.48:542][650]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_25' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.08-16.16.48:553][651]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_27' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.08-16.16.48:563][652]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_29' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.08-16.16.48:572][653]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Border_31' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.08-16.16.50:983][794]LogEditorTransaction: Undo Move Widget
+[2018.05.08-16.18.40:201][226]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel' took 0.068
+[2018.05.08-16.18.40:241][226]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UnknownLegacy/Shared/Widgets/FirstMenu/FirstMenu] ([1] browsable assets)...
+[2018.05.08-16.18.40:241][226]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Shared/Widgets/FirstMenu/FirstMenu]
+[2018.05.08-16.18.40:806][226]LogSavePackage: Save=296.95ms
+[2018.05.08-16.18.40:806][226]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/FirstMenu_Auto1C2A4D19943AAEE50291BD7B8B75A4857.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/FirstMenu/FirstMenu_Auto1.uasset'
+[2018.05.08-16.18.40:809][226]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/FirstMenu/FirstMenu_Auto1.uasset
+[2018.05.08-16.18.40:809][226]LogFileHelpers: Auto-saving content packages took 0.607
+[2018.05.08-16.20.36:592][981]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 G:\Downloads\LECIntro.avi)
+[2018.05.08-16.20.41:897][997]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 G:\Downloads\Menu_BG.avi)
+[2018.05.08-16.21.28:186][458]BlueprintLog: New page: Compile FirstMenu
+[2018.05.08-16.22.22:381][530]LogSavePackage: Save=944.40ms
+[2018.05.08-16.22.22:381][530]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/BaseLevel30733E964AA903C13AA2C4A5D9714514.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Levels/BaseLevel/BaseLevel.umap'
+[2018.05.08-16.22.22:408][530]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Levels/BaseLevel/BaseLevel.umap
+[2018.05.08-16.22.22:745][530]LogSavePackage: Save=193.20ms
+[2018.05.08-16.22.22:745][530]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/BaseLevel_BuiltDataEF94219B4E787F569970F9977BC58327.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Levels/BaseLevel/BaseLevel_BuiltData.uasset'
+[2018.05.08-16.22.22:746][530]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Levels/BaseLevel/BaseLevel_BuiltData.uasset
+[2018.05.08-16.32.22:236][783]LogSavePackage: Save=393.28ms
+[2018.05.08-16.32.22:236][783]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/BaseLevel_Auto240AF84D4436B45C75CC58D9330C2A07B.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel_Auto2.umap'
+[2018.05.08-16.32.22:248][783]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel_Auto2.umap
+[2018.05.08-16.32.22:249][783]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel' took 0.509
+[2018.05.08-16.32.22:249][783]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.509
+[2018.05.08-16.32.22:250][783]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UnknownLegacy/Shared/Widgets/FirstMenu/FirstMenu] ([1] browsable assets)...
+[2018.05.08-16.32.22:250][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Shared/Widgets/FirstMenu/FirstMenu]
+[2018.05.08-16.32.22:284][783]LogSavePackage: Save=24.02ms
+[2018.05.08-16.32.22:284][783]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/FirstMenu_Auto232A7AA0D458DD110BCAE618E0B68FA74.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/FirstMenu/FirstMenu_Auto2.uasset'
+[2018.05.08-16.32.22:295][783]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/FirstMenu/FirstMenu_Auto2.uasset
+[2018.05.08-16.32.22:296][783]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UnknownLegacy/Fims/LECIntro] ([1] browsable assets)...
+[2018.05.08-16.32.22:296][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Fims/LECIntro]
+[2018.05.08-16.32.22:296][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnknownLegacy/Fims/LECIntro" FILE="../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Fims/LECIntro_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.05.08-16.32.22:315][783]LogSavePackage: Save=17.97ms
+[2018.05.08-16.32.22:315][783]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/LECIntro_Auto2DB55ABA5409C314EDA13ED9A280C570C.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Fims/LECIntro_Auto2.uasset'
+[2018.05.08-16.32.22:315][783]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Fims/LECIntro_Auto2.uasset
+[2018.05.08-16.32.22:316][783]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UnknownLegacy/Fims/Menu_BG] ([1] browsable assets)...
+[2018.05.08-16.32.22:316][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Fims/Menu_BG]
+[2018.05.08-16.32.22:316][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnknownLegacy/Fims/Menu_BG" FILE="../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Fims/Menu_BG_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.05.08-16.32.22:317][783]LogSavePackage: Save=0.69ms
+[2018.05.08-16.32.22:317][783]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/Menu_BG_Auto2B2D7D44147288A97BC918FB48634D42C.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Fims/Menu_BG_Auto2.uasset'
+[2018.05.08-16.32.22:317][783]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Fims/Menu_BG_Auto2.uasset
+[2018.05.08-16.32.22:318][783]LogFileHelpers: Auto-saving content packages took 0.068
+[2018.05.08-18.45.31:921][994]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.05.08-18.45.32:285][994]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2018.05.08-18.46.55:606][951]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel' took 0.065
+[2018.05.08-18.46.55:608][951]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UnknownLegacy/Fims/Player] ([1] browsable assets)...
+[2018.05.08-18.46.55:608][951]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Fims/Player]
+[2018.05.08-18.46.55:608][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnknownLegacy/Fims/Player" FILE="../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Fims/Player_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.05.08-18.46.55:612][951]LogSavePackage: Save=1.92ms
+[2018.05.08-18.46.55:612][951]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/Player_Auto3018AF4C34EBAC5B0641D028838D84926.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Fims/Player_Auto3.uasset'
+[2018.05.08-18.46.55:613][951]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Fims/Player_Auto3.uasset
+[2018.05.08-18.46.55:613][951]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UnknownLegacy/Fims/Player_Video] ([1] browsable assets)...
+[2018.05.08-18.46.55:633][951]OBJ SavePackage:     Rendered thumbnail for [MediaTexture /Game/UnknownLegacy/Fims/Player_Video.Player_Video]
+[2018.05.08-18.46.55:633][951]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Fims/Player_Video]
+[2018.05.08-18.46.55:677][951]LogSavePackage: Save=30.38ms
+[2018.05.08-18.46.55:677][951]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/Player_Video_Auto3E6E9F9E547A01BC9B040F0B36CC53649.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Fims/Player_Video_Auto3.uasset'
+[2018.05.08-18.46.55:677][951]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Fims/Player_Video_Auto3.uasset
+[2018.05.08-18.46.55:677][951]LogFileHelpers: Auto-saving content packages took 0.070
+[2018.05.08-19.37.40:768][427]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\RapidBuffer\t\LIFE/0_.png)
+[2018.05.08-19.37.40:837][427]LogTexture: Display: Building textures: 0_ (AutoDXT, 800X800)
+[2018.05.08-19.37.41:190][427]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\RapidBuffer\t\LIFE/10.png)
+[2018.05.08-19.37.41:203][427]LogTexture: Display: Building textures: 10 (AutoDXT, 800X800)
+[2018.05.08-19.37.41:400][427]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\RapidBuffer\t\LIFE/100.png)
+[2018.05.08-19.37.41:413][427]LogTexture: Display: Building textures: 100 (AutoDXT, 800X800)
+[2018.05.08-19.37.41:604][427]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\RapidBuffer\t\LIFE/20.png)
+[2018.05.08-19.37.41:617][427]LogTexture: Display: Building textures: 20 (AutoDXT, 800X800)
+[2018.05.08-19.37.41:819][427]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\RapidBuffer\t\LIFE/30.png)
+[2018.05.08-19.37.41:833][427]LogTexture: Display: Building textures: 30 (AutoDXT, 800X800)
+[2018.05.08-19.37.42:026][427]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\RapidBuffer\t\LIFE/40.png)
+[2018.05.08-19.37.42:040][427]LogTexture: Display: Building textures: 40 (AutoDXT, 800X800)
+[2018.05.08-19.37.42:232][427]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\RapidBuffer\t\LIFE/50.png)
+[2018.05.08-19.37.42:244][427]LogTexture: Display: Building textures: 50 (AutoDXT, 800X800)
+[2018.05.08-19.37.42:437][427]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\RapidBuffer\t\LIFE/60.png)
+[2018.05.08-19.37.42:451][427]LogTexture: Display: Building textures: 60 (AutoDXT, 800X800)
+[2018.05.08-19.37.42:641][427]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\RapidBuffer\t\LIFE/70.png)
+[2018.05.08-19.37.42:654][427]LogTexture: Display: Building textures: 70 (AutoDXT, 800X800)
+[2018.05.08-19.37.42:842][427]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\RapidBuffer\t\LIFE/80.png)
+[2018.05.08-19.37.42:855][427]LogTexture: Display: Building textures: 80 (AutoDXT, 800X800)
+[2018.05.08-19.37.43:041][427]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\RapidBuffer\t\LIFE/90.png)
+[2018.05.08-19.37.43:054][427]LogTexture: Display: Building textures: 90 (AutoDXT, 800X800)
+[2018.05.08-19.37.43:238][427]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\RapidBuffer\t\SCORE/LOGO/logo A.psd.png)
+[2018.05.08-19.37.43:244][427]LogTexture: Display: Building textures: logo_A_psd (AutoDXT, 300X300)
+[2018.05.08-19.37.43:302][427]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\RapidBuffer\t\SCORE/LOGO/logo B.psd.png)
+[2018.05.08-19.37.43:306][427]LogTexture: Display: Building textures: logo_B_psd (AutoDXT, 300X300)
+[2018.05.08-19.37.43:388][427]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\RapidBuffer\t\SCORE/Score.png)
+[2018.05.08-19.37.43:401][427]LogTexture: Display: Building textures: Score (AutoDXT, 800X800)
+[2018.05.08-19.37.43:473][427]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\RapidBuffer\t\TIMER/Timer(01_00).png)
+[2018.05.08-19.37.43:487][427]LogTexture: Display: Building textures: Timer_01_00_ (AutoDXT, 800X800)
+[2018.05.08-19.37.43:643][427]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\RapidBuffer\t\TIMER/Timer(Blank).png)
+[2018.05.08-19.37.43:656][427]LogTexture: Display: Building textures: Timer_Blank_ (AutoDXT, 800X800)
+[2018.05.08-19.37.43:797][427]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\RapidBuffer\t\AMMO/background.png)
+[2018.05.08-19.37.43:812][427]LogTexture: Display: Building textures: background (AutoDXT, 800X800)
+[2018.05.08-19.37.44:017][427]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\RapidBuffer\t\AMMO/bullet.png)
+[2018.05.08-19.37.44:020][427]LogTexture: Display: Building textures: bullet (BGRA8, 168X167)
+[2018.05.08-19.38.46:948][666]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/UnknownLegacy/Levels/BaseLevel/BaseLevel' took 0.087
+[2018.05.08-19.38.46:958][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/0_] ([1] browsable assets)...
+[2018.05.08-19.38.46:970][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/0_.0_]
+[2018.05.08-19.38.46:970][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/0_]
+[2018.05.08-19.38.46:990][666]LogSavePackage: Save=5.44ms
+[2018.05.08-19.38.46:990][666]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/0__Auto41F71441F45BCB94D6DA278AD8BF0B2A8.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/0__Auto4.uasset'
+[2018.05.08-19.38.46:990][666]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/0__Auto4.uasset
+[2018.05.08-19.38.46:991][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/10] ([1] browsable assets)...
+[2018.05.08-19.38.47:002][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/10.10]
+[2018.05.08-19.38.47:003][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/10]
+[2018.05.08-19.38.47:008][666]LogSavePackage: Save=4.74ms
+[2018.05.08-19.38.47:008][666]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/10_Auto453FDA39148E5AB79187DA8BF5AC5E36B.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/10_Auto4.uasset'
+[2018.05.08-19.38.47:009][666]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/10_Auto4.uasset
+[2018.05.08-19.38.47:009][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/100] ([1] browsable assets)...
+[2018.05.08-19.38.47:018][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/100.100]
+[2018.05.08-19.38.47:018][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/100]
+[2018.05.08-19.38.47:024][666]LogSavePackage: Save=4.76ms
+[2018.05.08-19.38.47:024][666]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/100_Auto45481A1E1426BE20D552A608F02BF773A.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/100_Auto4.uasset'
+[2018.05.08-19.38.47:025][666]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/100_Auto4.uasset
+[2018.05.08-19.38.47:026][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/20] ([1] browsable assets)...
+[2018.05.08-19.38.47:034][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/20.20]
+[2018.05.08-19.38.47:034][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/20]
+[2018.05.08-19.38.47:041][666]LogSavePackage: Save=5.21ms
+[2018.05.08-19.38.47:041][666]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/20_Auto4FDB18E0F451872B731B33DAB305CAFE6.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/20_Auto4.uasset'
+[2018.05.08-19.38.47:042][666]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/20_Auto4.uasset
+[2018.05.08-19.38.47:043][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/30] ([1] browsable assets)...
+[2018.05.08-19.38.47:054][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/30.30]
+[2018.05.08-19.38.47:054][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/30]
+[2018.05.08-19.38.47:060][666]LogSavePackage: Save=5.28ms
+[2018.05.08-19.38.47:060][666]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/30_Auto45BAE64D148AC0982B344E1941DF8B479.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/30_Auto4.uasset'
+[2018.05.08-19.38.47:061][666]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/30_Auto4.uasset
+[2018.05.08-19.38.47:061][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/40] ([1] browsable assets)...
+[2018.05.08-19.38.47:071][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/40.40]
+[2018.05.08-19.38.47:071][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/40]
+[2018.05.08-19.38.47:076][666]LogSavePackage: Save=4.86ms
+[2018.05.08-19.38.47:077][666]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/40_Auto44F6939F74204F1A408645183EDB6D858.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/40_Auto4.uasset'
+[2018.05.08-19.38.47:077][666]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/40_Auto4.uasset
+[2018.05.08-19.38.47:078][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/50] ([1] browsable assets)...
+[2018.05.08-19.38.47:086][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/50.50]
+[2018.05.08-19.38.47:086][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/50]
+[2018.05.08-19.38.47:092][666]LogSavePackage: Save=5.46ms
+[2018.05.08-19.38.47:093][666]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/50_Auto4B14375A54B8176527D7329A5D722D903.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/50_Auto4.uasset'
+[2018.05.08-19.38.47:094][666]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/50_Auto4.uasset
+[2018.05.08-19.38.47:094][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/60] ([1] browsable assets)...
+[2018.05.08-19.38.47:102][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/60.60]
+[2018.05.08-19.38.47:102][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/60]
+[2018.05.08-19.38.47:109][666]LogSavePackage: Save=5.07ms
+[2018.05.08-19.38.47:109][666]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/60_Auto40B89742E4CB6912089DB8D821417CF11.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/60_Auto4.uasset'
+[2018.05.08-19.38.47:110][666]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/60_Auto4.uasset
+[2018.05.08-19.38.47:110][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/70] ([1] browsable assets)...
+[2018.05.08-19.38.47:118][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/70.70]
+[2018.05.08-19.38.47:118][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/70]
+[2018.05.08-19.38.47:141][666]LogSavePackage: Save=6.60ms
+[2018.05.08-19.38.47:142][666]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/70_Auto40D9968AC4F58A1F3D0EBC3B5389DF31C.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/70_Auto4.uasset'
+[2018.05.08-19.38.47:146][666]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/70_Auto4.uasset
+[2018.05.08-19.38.47:147][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/80] ([1] browsable assets)...
+[2018.05.08-19.38.47:158][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/80.80]
+[2018.05.08-19.38.47:158][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/80]
+[2018.05.08-19.38.47:168][666]LogSavePackage: Save=6.59ms
+[2018.05.08-19.38.47:168][666]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/80_Auto4FD0707074B8EB4D165B338813CEE2F3F.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/80_Auto4.uasset'
+[2018.05.08-19.38.47:169][666]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/80_Auto4.uasset
+[2018.05.08-19.38.47:170][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/90] ([1] browsable assets)...
+[2018.05.08-19.38.47:180][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/90.90]
+[2018.05.08-19.38.47:180][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/90]
+[2018.05.08-19.38.47:186][666]LogSavePackage: Save=4.81ms
+[2018.05.08-19.38.47:186][666]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/90_Auto4049BCA1A46A3C77E86B6AD9BC2C6104E.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/90_Auto4.uasset'
+[2018.05.08-19.38.47:187][666]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/90_Auto4.uasset
+[2018.05.08-19.38.47:188][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UnknownLegacy/Shared/Widgets/HUD/SCORE/LOGO/logo_A_psd] ([1] browsable assets)...
+[2018.05.08-19.38.47:196][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UnknownLegacy/Shared/Widgets/HUD/SCORE/LOGO/logo_A_psd.logo_A_psd]
+[2018.05.08-19.38.47:196][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Shared/Widgets/HUD/SCORE/LOGO/logo_A_psd]
+[2018.05.08-19.38.47:202][666]LogSavePackage: Save=5.21ms
+[2018.05.08-19.38.47:202][666]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/logo_A_psd_Auto47CCEAC8741C51B913294A6B205C5360D.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/SCORE/LOGO/logo_A_psd_Auto4.uasset'
+[2018.05.08-19.38.47:203][666]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/SCORE/LOGO/logo_A_psd_Auto4.uasset
+[2018.05.08-19.38.47:204][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UnknownLegacy/Shared/Widgets/HUD/SCORE/LOGO/logo_B_psd] ([1] browsable assets)...
+[2018.05.08-19.38.47:215][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UnknownLegacy/Shared/Widgets/HUD/SCORE/LOGO/logo_B_psd.logo_B_psd]
+[2018.05.08-19.38.47:215][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Shared/Widgets/HUD/SCORE/LOGO/logo_B_psd]
+[2018.05.08-19.38.47:226][666]LogSavePackage: Save=8.99ms
+[2018.05.08-19.38.47:226][666]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/logo_B_psd_Auto4D8EF691E4765D66EDC7B90A867DC3B6D.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/SCORE/LOGO/logo_B_psd_Auto4.uasset'
+[2018.05.08-19.38.47:227][666]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/SCORE/LOGO/logo_B_psd_Auto4.uasset
+[2018.05.08-19.38.47:227][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UnknownLegacy/Shared/Widgets/HUD/SCORE/Score] ([1] browsable assets)...
+[2018.05.08-19.38.47:236][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UnknownLegacy/Shared/Widgets/HUD/SCORE/Score.Score]
+[2018.05.08-19.38.47:236][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Shared/Widgets/HUD/SCORE/Score]
+[2018.05.08-19.38.47:243][666]LogSavePackage: Save=5.80ms
+[2018.05.08-19.38.47:243][666]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/Score_Auto4F3A9074041D16D4DCDEAED832D7E64C0.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/SCORE/Score_Auto4.uasset'
+[2018.05.08-19.38.47:244][666]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/SCORE/Score_Auto4.uasset
+[2018.05.08-19.38.47:245][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UnknownLegacy/Shared/Widgets/HUD/TIMER/Timer_01_00_] ([1] browsable assets)...
+[2018.05.08-19.38.47:253][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UnknownLegacy/Shared/Widgets/HUD/TIMER/Timer_01_00_.Timer_01_00_]
+[2018.05.08-19.38.47:253][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Shared/Widgets/HUD/TIMER/Timer_01_00_]
+[2018.05.08-19.38.47:261][666]LogSavePackage: Save=6.24ms
+[2018.05.08-19.38.47:261][666]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/Timer_01_00__Auto43591D82B4BF55A8F8AE3CF888E2D974E.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/TIMER/Timer_01_00__Auto4.uasset'
+[2018.05.08-19.38.47:262][666]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/TIMER/Timer_01_00__Auto4.uasset
+[2018.05.08-19.38.47:262][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UnknownLegacy/Shared/Widgets/HUD/TIMER/Timer_Blank_] ([1] browsable assets)...
+[2018.05.08-19.38.47:270][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UnknownLegacy/Shared/Widgets/HUD/TIMER/Timer_Blank_.Timer_Blank_]
+[2018.05.08-19.38.47:270][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Shared/Widgets/HUD/TIMER/Timer_Blank_]
+[2018.05.08-19.38.47:277][666]LogSavePackage: Save=5.89ms
+[2018.05.08-19.38.47:277][666]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/Timer_Blank__Auto44A2A65AB427AC64B8EB383AD1B7FE1D7.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/TIMER/Timer_Blank__Auto4.uasset'
+[2018.05.08-19.38.47:279][666]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/TIMER/Timer_Blank__Auto4.uasset
+[2018.05.08-19.38.47:291][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UnknownLegacy/Shared/Widgets/HUD/AMMO/background] ([1] browsable assets)...
+[2018.05.08-19.38.47:301][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UnknownLegacy/Shared/Widgets/HUD/AMMO/background.background]
+[2018.05.08-19.38.47:301][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Shared/Widgets/HUD/AMMO/background]
+[2018.05.08-19.38.47:308][666]LogSavePackage: Save=4.81ms
+[2018.05.08-19.38.47:308][666]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/background_Auto4300582ED4F28AA49CB4DBFB6673E30F2.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/AMMO/background_Auto4.uasset'
+[2018.05.08-19.38.47:309][666]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/AMMO/background_Auto4.uasset
+[2018.05.08-19.38.47:310][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UnknownLegacy/Shared/Widgets/HUD/AMMO/bullet] ([1] browsable assets)...
+[2018.05.08-19.38.47:314][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UnknownLegacy/Shared/Widgets/HUD/AMMO/bullet.bullet]
+[2018.05.08-19.38.47:314][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/UnknownLegacy/Shared/Widgets/HUD/AMMO/bullet]
+[2018.05.08-19.38.47:317][666]LogSavePackage: Save=2.23ms
+[2018.05.08-19.38.47:317][666]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/bullet_Auto4D44FF2C34768E8D09517B58031732208.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/AMMO/bullet_Auto4.uasset'
+[2018.05.08-19.38.47:318][666]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Saved/Autosaves/Game/UnknownLegacy/Shared/Widgets/HUD/AMMO/bullet_Auto4.uasset
+[2018.05.08-19.38.47:318][666]LogFileHelpers: Auto-saving content packages took 0.369
+[2018.05.08-20.57.41:097][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnknownLegacy/Fims/LECIntro" FILE="../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Fims/LECIntro.uasset" SILENT=true
+[2018.05.08-20.57.41:241][508]LogSavePackage: Save=1.72ms
+[2018.05.08-20.57.41:241][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/LECIntroFA08E37B422149542BB18AB82ECB7418.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Fims/LECIntro.uasset'
+[2018.05.08-20.57.41:242][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Fims/LECIntro.uasset
+[2018.05.08-20.57.41:245][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnknownLegacy/Fims/Menu_BG" FILE="../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Fims/Menu_BG.uasset" SILENT=true
+[2018.05.08-20.57.41:258][508]LogSavePackage: Save=0.84ms
+[2018.05.08-20.57.41:258][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/Menu_BG7AEDA96740539CA3742B9BA4575DC00D.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Fims/Menu_BG.uasset'
+[2018.05.08-20.57.41:259][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Fims/Menu_BG.uasset
+[2018.05.08-20.57.41:261][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnknownLegacy/Fims/Player" FILE="../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Fims/Player.uasset" SILENT=true
+[2018.05.08-20.57.41:273][508]LogSavePackage: Save=1.14ms
+[2018.05.08-20.57.41:273][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/Player37C08AC94315326CC8EC3E88A9A855BB.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Fims/Player.uasset'
+[2018.05.08-20.57.41:274][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Fims/Player.uasset
+[2018.05.08-20.57.41:284][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnknownLegacy/Fims/Player_Video" FILE="../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Fims/Player_Video.uasset" SILENT=true
+[2018.05.08-20.57.41:294][508]LogSavePackage: Save=3.74ms
+[2018.05.08-20.57.41:294][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/Player_Video6AD5C90E46BBEF74DC6AA7B7D7E5006C.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Fims/Player_Video.uasset'
+[2018.05.08-20.57.41:295][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Fims/Player_Video.uasset
+[2018.05.08-20.57.42:880][508]LogSavePackage: Save=182.19ms
+[2018.05.08-20.57.42:880][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/BaseLevelBD6555A3477EA12E236AC49AFBE24646.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Levels/BaseLevel/BaseLevel.umap'
+[2018.05.08-20.57.42:881][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Levels/BaseLevel/BaseLevel.umap
+[2018.05.08-20.57.42:899][508]LogFileHelpers: Saving map 'BaseLevel' took 1.600
+[2018.05.08-20.57.42:929][508]LogSavePackage: Save=23.55ms
+[2018.05.08-20.57.42:929][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/FirstMenuCAFD6DC74D84CFC288DC5DB65E0A077C.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/FirstMenu/FirstMenu.uasset'
+[2018.05.08-20.57.42:931][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/FirstMenu/FirstMenu.uasset
+[2018.05.08-20.57.42:968][508]LogSavePackage: Save=24.19ms
+[2018.05.08-20.57.42:968][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/background8ED05A5845BAACA8E929FB8DC1847432.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/AMMO/background.uasset'
+[2018.05.08-20.57.42:969][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/AMMO/background.uasset
+[2018.05.08-20.57.42:976][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnknownLegacy/Shared/Widgets/HUD/AMMO/bullet" FILE="../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/AMMO/bullet.uasset" SILENT=true
+[2018.05.08-20.57.42:980][508]LogSavePackage: Save=3.00ms
+[2018.05.08-20.57.42:980][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/bullet2AEB1A7A4218FB8C888A8AABA57059EC.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/AMMO/bullet.uasset'
+[2018.05.08-20.57.42:982][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/AMMO/bullet.uasset
+[2018.05.08-20.57.42:994][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/0_" FILE="../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/0_.uasset" SILENT=true
+[2018.05.08-20.57.43:020][508]LogSavePackage: Save=24.09ms
+[2018.05.08-20.57.43:020][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/0_B15E4407442E01D9FBCD31B04627B356.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/0_.uasset'
+[2018.05.08-20.57.43:022][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/0_.uasset
+[2018.05.08-20.57.43:033][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/10" FILE="../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/10.uasset" SILENT=true
+[2018.05.08-20.57.43:057][508]LogSavePackage: Save=23.33ms
+[2018.05.08-20.57.43:057][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/1081A3BD75418D9F4E098A6B97ACE886EC.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/10.uasset'
+[2018.05.08-20.57.43:060][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/10.uasset
+[2018.05.08-20.57.43:070][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/100" FILE="../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/100.uasset" SILENT=true
+[2018.05.08-20.57.43:096][508]LogSavePackage: Save=24.74ms
+[2018.05.08-20.57.43:096][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/100F79BD28E4747336ACF69CD81F0F60156.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/100.uasset'
+[2018.05.08-20.57.43:097][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/100.uasset
+[2018.05.08-20.57.43:110][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/20" FILE="../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/20.uasset" SILENT=true
+[2018.05.08-20.57.43:134][508]LogSavePackage: Save=23.15ms
+[2018.05.08-20.57.43:134][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/20956572AA4DF60E273986BC891AFA5868.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/20.uasset'
+[2018.05.08-20.57.43:135][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/20.uasset
+[2018.05.08-20.57.43:148][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/30" FILE="../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/30.uasset" SILENT=true
+[2018.05.08-20.57.43:175][508]LogSavePackage: Save=25.59ms
+[2018.05.08-20.57.43:175][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/30442463884EB934C5E968A991AB8F44F9.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/30.uasset'
+[2018.05.08-20.57.43:176][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/30.uasset
+[2018.05.08-20.57.43:190][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/40" FILE="../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/40.uasset" SILENT=true
+[2018.05.08-20.57.43:213][508]LogSavePackage: Save=22.61ms
+[2018.05.08-20.57.43:213][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/40304A99B34C51DE24809C518EEB504A8C.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/40.uasset'
+[2018.05.08-20.57.43:214][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/40.uasset
+[2018.05.08-20.57.43:228][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/50" FILE="../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/50.uasset" SILENT=true
+[2018.05.08-20.57.43:263][508]LogSavePackage: Save=33.78ms
+[2018.05.08-20.57.43:263][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/50E134F681479A9B273F06FD84E779B698.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/50.uasset'
+[2018.05.08-20.57.43:264][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/50.uasset
+[2018.05.08-20.57.43:278][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/60" FILE="../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/60.uasset" SILENT=true
+[2018.05.08-20.57.43:305][508]LogSavePackage: Save=25.64ms
+[2018.05.08-20.57.43:305][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/60A9F3C7D64AF63373ABC3A9AC348DD35B.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/60.uasset'
+[2018.05.08-20.57.43:306][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/60.uasset
+[2018.05.08-20.57.43:319][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/70" FILE="../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/70.uasset" SILENT=true
+[2018.05.08-20.57.43:352][508]LogSavePackage: Save=31.31ms
+[2018.05.08-20.57.43:352][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/704700B0D0410D8BDF7362099A92A440F2.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/70.uasset'
+[2018.05.08-20.57.43:354][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/70.uasset
+[2018.05.08-20.57.43:367][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/80" FILE="../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/80.uasset" SILENT=true
+[2018.05.08-20.57.43:394][508]LogSavePackage: Save=26.04ms
+[2018.05.08-20.57.43:394][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/800D80FF574458ED40B0F445B0539B905D.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/80.uasset'
+[2018.05.08-20.57.43:395][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/80.uasset
+[2018.05.08-20.57.43:407][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnknownLegacy/Shared/Widgets/HUD/LIFE/90" FILE="../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/90.uasset" SILENT=true
+[2018.05.08-20.57.43:431][508]LogSavePackage: Save=23.12ms
+[2018.05.08-20.57.43:431][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/9054EF7D1D481F70AC523456B95BA1AFCE.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/90.uasset'
+[2018.05.08-20.57.43:433][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/LIFE/90.uasset
+[2018.05.08-20.57.43:455][508]LogSavePackage: Save=8.97ms
+[2018.05.08-20.57.43:455][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/logo_A_psd7CEA311D417C673836B8BE8E7ED5141D.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/SCORE/LOGO/logo_A_psd.uasset'
+[2018.05.08-20.57.43:456][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/SCORE/LOGO/logo_A_psd.uasset
+[2018.05.08-20.57.43:476][508]LogSavePackage: Save=9.67ms
+[2018.05.08-20.57.43:476][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/logo_B_psd24874010421702BCF287D9A318D02BAF.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/SCORE/LOGO/logo_B_psd.uasset'
+[2018.05.08-20.57.43:477][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/SCORE/LOGO/logo_B_psd.uasset
+[2018.05.08-20.57.43:487][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UnknownLegacy/Shared/Widgets/HUD/SCORE/Score" FILE="../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/SCORE/Score.uasset" SILENT=true
+[2018.05.08-20.57.43:512][508]LogSavePackage: Save=24.21ms
+[2018.05.08-20.57.43:512][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/Score7E7B08EB42403ED6E05F248EE5F41B8D.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/SCORE/Score.uasset'
+[2018.05.08-20.57.43:513][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/SCORE/Score.uasset
+[2018.05.08-20.57.43:552][508]LogSavePackage: Save=26.70ms
+[2018.05.08-20.57.43:552][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/Timer_01_00_9D385C1142A9B0595C17FB9631B44FA1.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/TIMER/Timer_01_00_.uasset'
+[2018.05.08-20.57.43:554][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/TIMER/Timer_01_00_.uasset
+[2018.05.08-20.57.43:590][508]LogSavePackage: Save=25.24ms
+[2018.05.08-20.57.43:590][508]LogSavePackage: Moving '../../../../../../UE/UnknownLegacy_Ok/Saved/Timer_Blank_93C070DA44A92510559B63BD3B98A8EF.tmp' to '../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/TIMER/Timer_Blank_.uasset'
+[2018.05.08-20.57.43:591][508]LogSavePackage: Display: Finished SavePackage ../../../../../../UE/UnknownLegacy_Ok/Content/UnknownLegacy/Shared/Widgets/HUD/TIMER/Timer_Blank_.uasset
+[2018.05.08-20.57.44:865][509]Cmd: QUIT_EDITOR
+[2018.05.08-20.57.45:524][509]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.08-20.57.45:582][509]LogExit: Preparing to exit.
+[2018.05.08-20.57.46:637][509]LogDirectoryWatcher: A directory notification failed for 'F:/UE/UnknownLegacy_Ok/Content/', and we were unable to create a new request.
+[2018.05.08-20.57.46:814][509]LogExit: Editor shut down
+[2018.05.08-20.57.46:838][509]LogExit: Transaction tracking system shut down
+[2018.05.08-20.57.47:204][509]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.08-20.57.47:204][509]LogDirectoryWatcher: A directory notification for '../../../../../../UE/UnknownLegacy_Ok/Content/' was aborted.
+[2018.05.08-20.57.47:204][509]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.08-20.57.47:205][509]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Marketplace/LowEntryExtStdLib/Content/' was aborted.
+[2018.05.08-20.57.47:205][509]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.05.08-20.57.47:205][509]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.05.08-20.57.47:205][509]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.05.08-20.57.47:205][509]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.05.08-20.57.48:579][509]LogExit: Object subsystem successfully closed.
+[2018.05.08-20.57.48:757][509]LogD3D11RHI: Shutdown
+[2018.05.08-20.57.48:765][509]LogD3D11RHI: CleanupD3DDevice
+[2018.05.08-20.57.48:795][509]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.08-20.57.49:679][509]LogModuleManager: Shutting down and abandoning module SequencerWidgets (558)
+[2018.05.08-20.57.49:679][509]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (556)
+[2018.05.08-20.57.49:679][509]LogModuleManager: Shutting down and abandoning module BlueprintGraph (554)
+[2018.05.08-20.57.49:679][509]LogModuleManager: Shutting down and abandoning module StatsViewer (552)
+[2018.05.08-20.57.49:697][509]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.05.08-20.57.49:697][509]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.05.08-20.57.49:723][509]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.05.08-20.57.49:941][509]LogDirectoryWatcher: A directory notification for 'F:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.05.08-20.57.49:946][509]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.05.08-20.57.49:946][509]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.05.08-20.57.49:946][509]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.05.08-20.57.49:946][509]LogDirectoryWatcher: A directory notification for 'F:/UE/UnknownLegacy_Ok/Content/Collections/' was aborted.
+[2018.05.08-20.57.49:946][509]LogDirectoryWatcher: A directory notification for 'F:/UE/UnknownLegacy_Ok/Content/Developers/kilian3008/Collections/' was aborted.
+[2018.05.08-20.57.49:946][509]LogDirectoryWatcher: A directory notification for 'F:/UE/UnknownLegacy_Ok/Saved/Collections/' was aborted.
+[2018.05.08-20.57.49:946][509]LogModuleManager: Shutting down and abandoning module FoliageEdit (538)
+[2018.05.08-20.57.49:946][509]LogModuleManager: Shutting down and abandoning module LandscapeEditor (536)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module MeshPaintMode (534)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (532)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module ActorPickerMode (530)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module GeometryMode (528)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module TextureAlignMode (526)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module BspMode (524)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (522)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module HardwareSurvey (520)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (518)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module AutomationWorker (516)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (514)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (512)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module PlacementMode (511)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (508)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (506)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (504)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (502)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (500)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (498)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (496)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (494)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (492)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module CharacterAI (490)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module AudioCapture (488)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module SequenceRecorder (487)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module SmartSnapping (484)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module SessionServices (482)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module ViewportSnapping (480)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module ViewportInteraction (478)
+[2018.05.08-20.57.49:947][509]LogModuleManager: Shutting down and abandoning module ClothPainter (476)
+[2018.05.08-20.57.49:953][509]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (475)
+[2018.05.08-20.57.49:984][509]LogModuleManager: Shutting down and abandoning module LogVisualizer (472)
+[2018.05.08-20.57.49:985][509]LogModuleManager: Shutting down and abandoning module IntroTutorials (470)
+[2018.05.08-20.57.50:003][509]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (469)
+[2018.05.08-20.57.50:003][509]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (466)
+[2018.05.08-20.57.50:003][509]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (464)
+[2018.05.08-20.57.50:003][509]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (462)
+[2018.05.08-20.57.50:003][509]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (461)
